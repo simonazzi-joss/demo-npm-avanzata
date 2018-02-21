@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/simonazzi-joss/demo-npm-avanzata/issues"
   },
-  "homepage": "https://github.com/simonazzi-joss/demo-npm-avanzata#readme"
+  "homepage": "https://github.com/simonazzi-joss/demo-npm-avanzata#readme",
+  "dependencies": {
+    "moment": "2.20.1"
+  }
 }
